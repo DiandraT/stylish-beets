@@ -18,13 +18,13 @@ ol {
   list-style-type: none;
 }
 
-figcaption{
+img {
+  width: 100%;
+}
+
+figcaption {
   text-align: center;
   font-style: italic;
   line-height: 1.5;
   font-size: 1.125rem;
-}
-
-img{
-  width: 100%;
 }
