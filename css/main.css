@@ -33,3 +33,9 @@ figcaption {
   line-height: 1.5;
   font-size: 1.125rem;
 }
+
+.boldfont{
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: bold;
+}
