@@ -31,7 +31,8 @@ a:hover {
 
 ol {
   list-style-type:lower-greek;
-  font-weight: normal;
+  font-weight: bold;
+
 }
 
 .italic {
