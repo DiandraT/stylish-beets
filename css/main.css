@@ -1,3 +1,5 @@
+
+
 html {
   background-color: #c9b5ab;
 }
@@ -30,8 +32,15 @@ a {
 
 a:hover {
   color: #8f2440;
-  font-weight: bold;
   text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+strong {
+  font-weight: normal;
 }
 
 ol {
@@ -41,6 +50,13 @@ ol {
 .italic {
   font-style: italic;
   font-family: "PT Serif", serif;
+}
+
+figcaption {
+  font-family: "PT Serif", serif;
+  text-align: center;
+  font-style: italic;
+  font-size: 1.125rem;
 }
 
 dt {
@@ -56,17 +72,6 @@ ul {
   list-style-type: circle;
   font-family: "PT Serif", serif;
   font-size: 0.8rem;
-}
-
-img {
-  width: 100%;
-}
-
-figcaption {
-  font-family: "PT Serif", serif;
-  text-align: center;
-  font-style: italic;
-  font-size: 1.125rem;
 }
 
 .boldfont {
