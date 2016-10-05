@@ -28,6 +28,10 @@ ol {
   list-style-type:lower-greek;
 }
 
+dt {
+  font-family: "PT Serif", serif;
+}
+
 img {
   width: 100%;
 }
