@@ -16,7 +16,6 @@ a {
   color: #8f2440;
   text-decoration: none;
   font-family: "PT Sans", sans-serif;
-  font-weight: normal;
 }
 
 a:hover {
@@ -26,6 +25,7 @@ a:hover {
 
 ol {
   list-style-type:lower-greek;
+  font-weight: normal;
 }
 
 .italic {
