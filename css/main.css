@@ -33,6 +33,11 @@ dt {
   line-height: 2.00rem;
 }
 
+ul {
+  list-style-type: circle;
+  line-height: 1.25rem;
+}
+
 img {
   width: 100%;
 }
