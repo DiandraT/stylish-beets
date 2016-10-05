@@ -28,6 +28,10 @@ ol {
   list-style-type:lower-greek;
 }
 
+.italic {
+  font-style: italic;
+}
+
 dt {
   font-family: "PT Serif", serif;
   line-height: 2.00rem;
